@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../sql"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"askForPassword": true,
+				"driver": "PostgreSQL",
+				"name": "HOLA",
+				"database": "sql",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"database": "ubigeos",
+				"username": "postgres",
+				"name": "UBIGEOS"
+			}
+		]
+	}
+}
