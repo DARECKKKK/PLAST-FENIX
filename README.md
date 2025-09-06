@@ -9,10 +9,10 @@ Tecnologías utilizadas
 - **Power BI** dashboards interactivos (ventas mensuales, utilidades, análisis por distrito, mapa de calor).  
 
 Estructura del repositorio
-- `/data` → archivos de prueba o dataset en Excel.  
-- `/sql` → consultas SQL utilizadas.  
-- `/powerbi` → archivos .pbix del dashboard.  
-- `/docs` → capturas de los reportes o documentación.  
+- `/BASE SQL` → consultas SQL utilizadas.  
+- `/EXCEL` → archivos .xlsx  donde se encuentra los datos generados y las formulas que use.  
+- `/PYTHON` → codigo usado , librerias usadas(configparser,pysogp2,pandas)
+- `/CAPTURAS` → capturas de los reportes y pasos usados para mi proyecto.
 
 ## 📸 Ejemplo de dashboard
 ![Dashboard de Ventas](docs/dashboard.png)
@@ -23,5 +23,5 @@ Estructura del repositorio
 - Mapa de calor por distritos en Lima.  
 - Visualización de categorías de productos.  
 
-## 🙌 Autor
+##  Autor
 Elmer García Guerrero 
