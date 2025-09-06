@@ -15,7 +15,7 @@ Estructura del repositorio
 - `/CAPTURAS` → capturas de los reportes y pasos usados para mi proyecto.
 
 ## 📸 Ejemplo de dashboard
-![Dashboard de Ventas](docs/dashboard.png)
+![Dashboard de Ventas](CAPTURAS/DASHBOARD VENTAS.PNG)
 
 ## 📈 Resultados
 - Análisis de ventas mensuales.  
