@@ -1,7 +1,20 @@
 Proyecto PLAST-FENIX
 
-Este proyecto consiste en un **informe de ventas y finanzas** desarrollado a partir de datos procesados en SQL, Python, Excel y visualizados en Power BI.
+PLAST-FENIX, una empresa dedicada a la fabricación y venta de productos plásticos, estaba teniendo algunos problemas: las ventas subían y bajaban sin patrón, los informes financieros eran difíciles de entender y muchas decisiones se tomaban a ojo, sin datos claros.
 
+Ahí es donde puse mis manos, para ayudarles a organizar toda esa información y convertirla en algo útil.
+
+Creé un informe completo de ventas y finanzas usando SQL para procesar los datos, Python y Excel para analizarlos, y Power BI para mostrarlos de forma clara e interactiva. Gracias a esto, PLAST-FENIX ahora puede:
+
+Ver de manera clara las tendencias de ventas por producto y por mes.
+
+Identificar qué productos no están funcionando bien.
+
+Tomar decisiones financieras basadas en datos reales.
+
+Ahorrar tiempo al generar reportes y presentaciones.
+
+Con este proyecto, la información dejó de ser un problema y se convirtió en una herramienta para tomar decisiones inteligentes y mejorar el rendimiento de la empresa.
 Tecnologías utilizadas
 - **SQL**  creacion de la base de datos usada(TABLES,JOINS),generacion de datos,validacion de datos.  
 - **Python** generación de datos  y exportación de datos a Excel.  
