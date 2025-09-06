@@ -3,10 +3,10 @@ Proyecto PLAST-FENIX
 Este proyecto consiste en un **informe de ventas y finanzas** desarrollado a partir de datos procesados en SQL, Python, Excel y visualizados en Power BI.
 
 Tecnologías utilizadas
-- **SQL** → extracción y procesamiento de datos.  
-- **Python** → generación y exportación de datos a Excel.  
-- **Excel** → limpieza y preparación de datos.  
-- **Power BI** → dashboards interactivos (ventas mensuales, utilidades, análisis por distrito, mapa de calor).  
+- **SQL**  creacion de la base de datos usada(TABLES,JOINS),generacion de datos,validacion de datos.  
+- **Python** generación de datos  y exportación de datos a Excel.  
+- **Excel**  generación de datos en base a datos reales,limpieza y preparación de datos para su analisis.  
+- **Power BI** dashboards interactivos (ventas mensuales, utilidades, análisis por distrito, mapa de calor).  
 
 Estructura del repositorio
 - `/data` → archivos de prueba o dataset en Excel.  
