@@ -13,15 +13,14 @@ Estructura del repositorio
 - `/EXCEL` → archivos .xlsx  donde se encuentra los datos generados y las formulas que use.  
 - `/PYTHON` → codigo usado , librerias usadas(configparser,pysogp2,pandas)
 - `/CAPTURAS` → capturas de los reportes y pasos usados para mi proyecto.
-
-## 📸 Ejemplo de dashboard
-<img width="1014" height="583" alt="Image" src="https://github.com/user-attachments/assets/b9437d91-f862-4b6b-8947-577c9de6a90d" />
-
-## 📈 Resultados
+##  Resultados Finales
 - Análisis de ventas mensuales.  
 - Cálculo de utilidades (precio - costo).  
 - Mapa de calor por distritos en Lima.  
-- Visualización de categorías de productos.  
-
+- Visualización de categorías de productos. 
+## DASHBOARDS REALIZADOS
+<img width="1014" height="583" alt="Image" src="https://github.com/user-attachments/assets/b9437d91-f862-4b6b-8947-577c9de6a90d" />
+<img width="982" height="559" alt="Image" src="https://github.com/user-attachments/assets/c2e7b75d-effa-4595-bbb3-b7718d84d26f" />
+ 
 ##  Autor
 Elmer García Guerrero 
